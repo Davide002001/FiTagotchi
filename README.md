@@ -3,7 +3,7 @@
 > *How can we motivate a gamer to adopt a healthy lifestyle?*
 > By turning daily physical activity into an adventure on the wrist.
 
-FiTagotchi is an **Apple Watch** game built around a virtual pet that lives on your activity. Move more, and your FiTagotchi thrives; stay still, and it gets tired — or worse.
+FiTagotchi is an **iPhone** and **Apple Watch** game built around a virtual pet that lives on your activity. Move more, and your FiTagotchi thrives; stay still, and it gets tired — or worse.
 
 ## ✨ Features
 
